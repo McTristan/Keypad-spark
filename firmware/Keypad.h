@@ -33,7 +33,7 @@
 #ifndef KEYPAD_H
 #define KEYPAD_H
 
-#include "utility/Key.h"
+#include "Key.h"
 
 #include "application.h"
 
