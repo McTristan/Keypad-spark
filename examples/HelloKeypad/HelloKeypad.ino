@@ -7,7 +7,7 @@
 || | Demonstrates the simplest use of the matrix Keypad library.
 || #
 */
-#include "Keypad/Keypad.h"
+#include "Keypad.h"
 
 const byte ROWS = 4; //four rows
 const byte COLS = 3; //three columns
