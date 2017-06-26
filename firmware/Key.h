@@ -29,8 +29,8 @@
 ||
 */
 
-#ifndef KEY_H
-#define KEY_H
+#ifndef FILE_KEY_H
+#define FILE_KEY_H
 
 #include "application.h"	// for digitalRead, digitalWrite, etc
 
